@@ -3,10 +3,12 @@
 class homeController extends controller {
 
     public function index() {
-       
        $dados = array();
-       $this->loadTemplate('home',$dados);
-        
+       $contatos = new Contatos();
+       
+       $dados['lista'] = $contatos->getAll();
+       
+       $this->loadTemplate('home',$dados);       
     }
 
     

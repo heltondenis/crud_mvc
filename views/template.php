@@ -9,8 +9,9 @@
     <script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/script.js"></script>
 </head>
 <body>
-TEMPLATE <hr>
+    <header>
+        <h1>Meu sistema de Contatos</h1>
+    </header>
         <?php $this->loadViewInTemplate($viewName, $viewData); ?>
-
 </body>
 </html>

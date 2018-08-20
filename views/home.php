@@ -1,3 +1,5 @@
+<a href="<?php echo BASE_URL; ?>contatos/add">[ADICIONAR]</a>
+
 <table border="1" width="100%"> 
         <tr>
             <th>ID</th>

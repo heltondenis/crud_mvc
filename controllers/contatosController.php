@@ -19,6 +19,8 @@ class contatosController extends controller {
         
             $contatos = new Contatos();
             $contatos->add($nome, $email);
+
+			$c
             
             header("Location: ".BASE_URL);
         }

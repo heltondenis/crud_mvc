@@ -5,8 +5,11 @@
         <group>
             <file>file:/C:/xampp/htdocs/projetos_github/crud_mvc/models/Contatos.php</file>
             <file>file:/C:/xampp/htdocs/projetos_github/crud_mvc/controllers/homeController.php</file>
+            <file>file:/C:/xampp/htdocs/projetos_github/crud_mvc/controllers/contatosController.php</file>
             <file>file:/C:/xampp/htdocs/projetos_github/crud_mvc/views/template.php</file>
-            <file>file:/C:/xampp/htdocs/projetos_github/crud_mvc/views/home.php</file>
+            <file>file:/C:/xampp/htdocs/projetos_github/crud_mvc/views/add.php</file>
+            <file>file:/C:/xampp/htdocs/projetos_github/crud_mvc/controllers/cadastrarController.php</file>
+            <file>file:/C:/xampp/htdocs/projetos_github/crud_mvc/controllers/loginController.php</file>
         </group>
     </open-files>
 </project-private>
